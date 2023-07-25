@@ -11,3 +11,7 @@
     <name>geshanzsq-nav</name>
     <url>https://nav.geshanzsq.com/</url>
     <description>格姗知识圈导航系统</description>
+  
+    <properties>
+        <geshanzsq-nav.version>1.0.0</geshanzsq-nav.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
