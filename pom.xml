@@ -23,3 +23,4 @@
         <maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
         <druid.version>1.2.2</druid.version>
         <bitwalker.version>1.21</bitwalker.version>
+        <swagger.version>2.9.2</swagger.version>
