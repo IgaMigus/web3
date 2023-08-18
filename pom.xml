@@ -35,3 +35,5 @@
         <jwt.version>0.9.1</jwt.version>
         <easy.captcha.version>1.6.2</easy.captcha.version>
     </properties>
+	
+    <!-- 依赖声明 -->
