@@ -37,3 +37,4 @@
     </properties>
 	
     <!-- 依赖声明 -->
+    <dependencyManagement>
