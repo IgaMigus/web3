@@ -38,3 +38,4 @@
 	
     <!-- 依赖声明 -->
     <dependencyManagement>
+        <dependencies>
