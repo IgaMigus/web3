@@ -41,3 +41,4 @@
         <dependencies>
         
             <!-- SpringBoot的依赖配置-->
+            <dependency>
