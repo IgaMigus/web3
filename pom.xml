@@ -47,3 +47,4 @@
                 <version>2.2.12.RELEASE</version>
                 <type>pom</type>
                 <scope>import</scope>
+            </dependency>
