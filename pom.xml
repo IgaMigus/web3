@@ -60,3 +60,4 @@
             <dependency>
                 <groupId>eu.bitwalker</groupId>
                 <artifactId>UserAgentUtils</artifactId>
+                <version>${bitwalker.version}</version>
