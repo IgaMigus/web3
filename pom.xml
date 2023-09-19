@@ -64,3 +64,4 @@
             </dependency>
 			
             <!-- pagehelper 分页插件 -->
+            <dependency>
