@@ -65,3 +65,4 @@
 			
             <!-- pagehelper 分页插件 -->
             <dependency>
+                <groupId>com.github.pagehelper</groupId>
