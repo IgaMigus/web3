@@ -78,3 +78,4 @@
             </dependency>
 
             <dependency>
+                <groupId>net.java.dev.jna</groupId>
