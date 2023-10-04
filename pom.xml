@@ -80,3 +80,4 @@
             <dependency>
                 <groupId>net.java.dev.jna</groupId>
                 <artifactId>jna</artifactId>
+                <version>${jna.version}</version>
