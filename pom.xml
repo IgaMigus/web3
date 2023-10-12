@@ -88,3 +88,5 @@
                 <artifactId>jna-platform</artifactId>
                 <version>${jna.version}</version>
             </dependency>
+			
+            <!-- swagger2-->
