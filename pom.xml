@@ -95,3 +95,4 @@
                 <artifactId>springfox-swagger2</artifactId>
                 <version>${swagger.version}</version>
                 <exclusions>
+                    <exclusion>
