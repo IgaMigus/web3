@@ -96,3 +96,4 @@
                 <version>${swagger.version}</version>
                 <exclusions>
                     <exclusion>
+                        <groupId>io.swagger</groupId>
