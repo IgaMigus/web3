@@ -97,3 +97,4 @@
                 <exclusions>
                     <exclusion>
                         <groupId>io.swagger</groupId>
+                        <artifactId>swagger-annotations</artifactId>
