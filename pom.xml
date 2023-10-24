@@ -100,3 +100,4 @@
                         <artifactId>swagger-annotations</artifactId>
                     </exclusion>
                     <exclusion>
+                        <groupId>io.swagger</groupId>
