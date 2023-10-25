@@ -101,3 +101,4 @@
                     </exclusion>
                     <exclusion>
                         <groupId>io.swagger</groupId>
+                        <artifactId>swagger-models</artifactId>
