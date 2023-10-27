@@ -103,3 +103,4 @@
                         <groupId>io.swagger</groupId>
                         <artifactId>swagger-models</artifactId>
                     </exclusion>
+                </exclusions>
