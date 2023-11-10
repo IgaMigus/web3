@@ -112,8 +112,8 @@
                 <artifactId>springfox-swagger-ui</artifactId>
                 <version>${swagger.version}</version>
             </dependency>
-                            <artifactId>commons-io</artifactId>
 
             <!--io常用工具类 -->
             <dependency>
                 <groupId>commons-io</groupId>
+                <artifactId>commons-io</artifactId>
