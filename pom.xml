@@ -119,3 +119,5 @@
                 <artifactId>commons-io</artifactId>
                 <version>${commons.io.version}</version>
             </dependency>
+
+            <!--文件上传工具类 -->
