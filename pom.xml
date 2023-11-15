@@ -122,3 +122,4 @@
 
             <!--文件上传工具类 -->
             <dependency>
+                <groupId>commons-fileupload</groupId>
