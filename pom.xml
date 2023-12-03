@@ -140,3 +140,4 @@
                 <artifactId>velocity</artifactId>
                 <version>${velocity.version}</version>
                 <exclusions>
+                    <exclusion>
